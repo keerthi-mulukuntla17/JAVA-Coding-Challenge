@@ -26,6 +26,11 @@ Relative balance for the period is: $5.50
 Number of transactions included is: 3
 
 
-
-
+The Input 2:
+accountId: ACC334455
+from: 20/10/2018 11:00:00
+to: 21/10/2018 23:33:00
+The output 2 :
+Relative balance for the period is: -$42.75
+Number of transactions included is: 4
 
